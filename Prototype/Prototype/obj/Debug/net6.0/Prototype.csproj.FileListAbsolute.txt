@@ -1,0 +1,15 @@
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\Prototype\Prototype\obj\Debug\net6.0\ref\Prototype.dll
