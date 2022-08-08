@@ -1,0 +1,12 @@
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\MovieBusinessLayer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\MovieBusinessLayer.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\MovieDataLayer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\MovieDataLayer.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\MovieDataLayer.dll.config
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.csproj.CopyComplete
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.pdb

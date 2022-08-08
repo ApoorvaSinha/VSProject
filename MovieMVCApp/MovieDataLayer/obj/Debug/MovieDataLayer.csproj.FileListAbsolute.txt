@@ -1,0 +1,12 @@
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\MovieDataLayer.dll.config
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\MovieDataLayer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\MovieDataLayer.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\obj\Debug\MovieDataLayer.csproj.AssemblyReference.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\obj\Debug\MovieDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\obj\Debug\MovieDataLayer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\obj\Debug\MovieDataLayer.pdb
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A530567\OneDrive - H & M HENNES & MAURITZ GBC AB\Repository\VStudioProject\MovieMVCApp\MovieDataLayer\obj\Debug\MovieDataLayer.csproj.CopyComplete
