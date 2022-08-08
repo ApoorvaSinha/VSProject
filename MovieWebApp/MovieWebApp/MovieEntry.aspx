@@ -3,7 +3,7 @@
     <h2>Movie Entry</h2>
     <hr />
     <div class="form-group">
-        <label> Movie Id</label>n
+        <label> Movie Id</label>
         <asp:TextBox runat="server" ID="txtMovieId" CssClass="form-control" />
     </div>
     <div class="form-group">
@@ -21,16 +21,16 @@
 
     <asp:Button runat="server" ID="btnSave" Text="Save" CssClass="btn btn-primary" OnClick="btnSave_Click" />
     <asp:Button runat="server" ID="btnEdit" Text="Edit" CssClass="btn btn-info" OnClick="btnEdit_Click" />
-    <asp:Button runat="server" ID="btnUpdate" Text="Update" CssClass="btn btn-info" />
-    <asp:Button runat="server" ID="btnDelete" Text="Delete" CssClass="btn btn-info" />
+    <asp:Button runat="server" ID="btnUpdate" Text="Update" CssClass="btn btn-info" OnClick="btnUpdate_Click" />
+    <asp:Button runat="server" ID="btnDelete" Text="Delete" CssClass="btn btn-info" OnClick="btnDelete_Click" />
 
-    <asp:Button runat="server" ID="btnReset" Text="Reset" CssClass="btn btn-primary" />
+    <asp:Button runat="server" ID="btnReset" Text="Reset" CssClass="btn btn-primary" OnClick="btnReset_Click" />
     <hr />
     <asp:Label runat="server" ID="lblMsg"></asp:Label>
     <hr />
 
     <div>
-        <asp:GridView ID="gvMovieDetails" runat="server" CssClass="table table-bordered table-striped"></asp:GridView>
+        <asp:GridView ID="gvMovieDetails" runat="server" CssClass="table table-bordered table-striped" OnSelectedIndexChanged="gvMovieDetails_SelectedIndexChanged"></asp:GridView>
     </div>
 
 </asp:Content>
